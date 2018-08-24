@@ -1,0 +1,9 @@
+Building MagNo
+
+See doc/readme-qt.rst for instructions on building MagNo-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MagNo.
+
+See doc/build-*.txt for instructions on building magnod,
+the intended-for-services, no-graphical-interface, reference
+implementation of MagNo.
